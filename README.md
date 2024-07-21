@@ -53,6 +53,8 @@ data
 
 You may download the model checkpoints from here: [Google Drive](https://drive.google.com/drive/folders/1iR2zLQjBZgxIs3gHkXh54Ulg-M6-6W4L?usp=sharing). Unzip the files and replace the `saved` directory with the extracted files.
 
+Link to the best model: https://drive.google.com/file/d/1QuJz_9NjM0nt_NYBt-3RZwpF7BuRs0cR/view?usp=sharing
+
 ## Training
 
 Use the [`train.py`](train.py) script to train the model.
