@@ -1,8 +1,4 @@
-# Audio Deep Fake Detection
-
-
-
-https://github.com/user-attachments/assets/40206d96-1252-44b4-866a-3f1ca3a26cdc
+# Audio DeepFake Detection
 
 
 
