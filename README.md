@@ -52,9 +52,6 @@ data
     └── ljspeech_waveglow
 ```
 
-## Model Checkpoints
-
-You may download the model checkpoints from here: [Google Drive](https://drive.google.com/drive/folders/1iR2zLQjBZgxIs3gHkXh54Ulg-M6-6W4L?usp=sharing). Unzip the files and replace the `saved` directory with the extracted files.
 
 ## Training
 
