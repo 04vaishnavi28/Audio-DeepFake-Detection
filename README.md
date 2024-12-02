@@ -124,6 +124,6 @@ python metrics.py
 ```
 
 
-#### Conrtibutor
+#### Contributor
 
 - [@yaseeng-md](https://github.com/yaseeng-md)
